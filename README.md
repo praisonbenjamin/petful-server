@@ -10,9 +10,6 @@ Table of Contents:\
 [API Endpoints](#endpoints)\
 [Developer Contact Info](#contact-developer)
 
-## Application screenshot
-
-![petful screenshot]
 
 ### Application Summary
 
