@@ -22,7 +22,7 @@ router.post('/', json, (req, res) => {
 
   People.enqueue(person);
   const people = People.get();
-  return res.res(201).json(people);
+  return res.status(201).json(people);
 });
 
 router.delete('/', (req, res) => {
